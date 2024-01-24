@@ -23,7 +23,7 @@ Celebrate your love story with our full-service wedding package, starting at $25
 - Photography and videography add-ons available
 
 
-## Custom Creations Showcase
+## Custom Creations 
 
 Explore our range of personalized products designed to add a touch of uniqueness to your daily life or special events:
 - **Custom T-shirts:** Express yourself with high-quality and stylish custom T-shirts.
@@ -31,10 +31,6 @@ Explore our range of personalized products designed to add a touch of uniqueness
 - **Custom Mugs:** Sip your favorite beverages from mugs that reflect your personality.
 - **Custom Stuffed Wrap Balloons:** Add whimsy to your celebrations with our custom balloons.
 
-## Getting Started
-
-1. Clone this repository to your local machine.
-2. Open `index.html` in your preferred web browser to explore our products and booking packages.
 
 ## Contributing
 
@@ -42,7 +38,7 @@ We value community contributions! If you have ideas, bug fixes, or improvements,
 
 ## Contact
 
-For inquiries, feedback, or collaboration opportunities, reach out to [Your Name] at [your.email@example.com]. We look forward to creating memorable experiences with you!
+For inquiries, feedback, or collaboration opportunities, reach out to Michelle at eventshotizon31@gmail.com, We look forward to creating memorable experiences with you!
 
 ---
 
